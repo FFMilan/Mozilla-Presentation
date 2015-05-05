@@ -1,2 +1,0 @@
-#Presentazione Firefox DevTools
-
